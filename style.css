@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(125, 190, 21)
+}
+h2 {
+    color: yellow;
+}
+hr {
+    border-color: yellow ;
+}
+a {
+    color: gray;
+    text-decoration: none;
+}
+table {
+    border: none;
+    width: 100%;
+    align-self: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.sarga {
+    background-color: yellow;
+}
+.oszlop1 {
+    width: 5%;
+    text-align: center;
+}
+.jobbra {
+    text-align: right;
+}
+.kistabla {
+    text-align: left;
+}
+.kep {
+    height: 300px;
+    width: 300px;
+}
+.jobbkep {
+    text-align: right;
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+.kozepre {
+    text-align: center;
+}
